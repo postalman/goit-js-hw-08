@@ -1,4 +1,3 @@
-import SimpleLightbox from "simplelightbox/dist/simple-lightbox.min.js";
 import "simplelightbox/dist/simple-lightbox.min.css";
 // Add imports above this line
 import { galleryItems } from './gallery-items';
