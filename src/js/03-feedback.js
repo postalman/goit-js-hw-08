@@ -6,7 +6,7 @@ const messageInput = document.querySelector('.feedback-form textarea[name="messa
 
 const STORAGE_KEY = 'feedback-form-state';
 
-feedbackForm.addEventListener('submit', onSubmit);
+  feedbackForm.addEventListener('submit', onSubmit);
 
   let formData = {};
 
